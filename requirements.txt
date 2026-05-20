@@ -1,0 +1,20 @@
+# Pipeline Hurtos Medellín — Dependencias Python
+
+# Datos e ingesta
+requests>=2.31.0
+pandas>=2.1.0
+
+# Kafka
+kafka-python>=2.0.2
+
+# MongoDB
+pymongo>=4.6.0
+
+# Procesamiento distribuido (modo local)
+# Para Spark real: instalar separado con pip install pyspark==3.5.0
+
+# Dashboard
+streamlit>=1.32.0
+
+# Utilidades
+python-dotenv>=1.0.0

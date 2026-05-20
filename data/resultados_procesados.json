@@ -1,0 +1,605 @@
+{
+  "procesado_en": "2026-05-20T01:51:30.830509",
+  "total_eventos": 10106,
+  "fuente": "SISC Medellín — datos reales",
+  "por_comuna": [
+    {
+      "comuna": "La Candelaria",
+      "total_hurtos": 3248
+    },
+    {
+      "comuna": "Laureles-Estadio",
+      "total_hurtos": 1594
+    },
+    {
+      "comuna": "Belén",
+      "total_hurtos": 1008
+    },
+    {
+      "comuna": "El Poblado",
+      "total_hurtos": 954
+    },
+    {
+      "comuna": "Castilla",
+      "total_hurtos": 562
+    },
+    {
+      "comuna": "Guayabal",
+      "total_hurtos": 546
+    },
+    {
+      "comuna": "Aranjuez",
+      "total_hurtos": 437
+    },
+    {
+      "comuna": "La América",
+      "total_hurtos": 391
+    },
+    {
+      "comuna": "Robledo",
+      "total_hurtos": 376
+    },
+    {
+      "comuna": "Buenos Aires",
+      "total_hurtos": 270
+    },
+    {
+      "comuna": "Villa Hermosa",
+      "total_hurtos": 162
+    },
+    {
+      "comuna": "Manrique",
+      "total_hurtos": 126
+    },
+    {
+      "comuna": "Doce de Octubre",
+      "total_hurtos": 121
+    },
+    {
+      "comuna": "San Javier",
+      "total_hurtos": 99
+    },
+    {
+      "comuna": "Santa Cruz",
+      "total_hurtos": 68
+    },
+    {
+      "comuna": "Popular",
+      "total_hurtos": 44
+    },
+    {
+      "comuna": "San Antonio de Prado",
+      "total_hurtos": 27
+    },
+    {
+      "comuna": "Santa Elena",
+      "total_hurtos": 26
+    },
+    {
+      "comuna": "San Cristóbal",
+      "total_hurtos": 24
+    },
+    {
+      "comuna": "Desconocida",
+      "total_hurtos": 12
+    },
+    {
+      "comuna": "Altavista",
+      "total_hurtos": 8
+    },
+    {
+      "comuna": "Palmitas",
+      "total_hurtos": 3
+    }
+  ],
+  "por_turno": [
+    {
+      "turno": "Tarde",
+      "total": 3556
+    },
+    {
+      "turno": "Mañana",
+      "total": 2350
+    },
+    {
+      "turno": "Noche",
+      "total": 2330
+    },
+    {
+      "turno": "Madrugada",
+      "total": 1870
+    }
+  ],
+  "por_modalidad": [
+    {
+      "modalidad": "Atraco",
+      "total": 4156
+    },
+    {
+      "modalidad": "No especificado",
+      "total": 3399
+    },
+    {
+      "modalidad": "Descuido",
+      "total": 897
+    },
+    {
+      "modalidad": "Raponazo",
+      "total": 577
+    },
+    {
+      "modalidad": "Cosquilleo",
+      "total": 566
+    },
+    {
+      "modalidad": "Engaño",
+      "total": 156
+    },
+    {
+      "modalidad": "Halado",
+      "total": 152
+    },
+    {
+      "modalidad": "Llave maestra",
+      "total": 67
+    },
+    {
+      "modalidad": "Rompimiento de ventana",
+      "total": 63
+    },
+    {
+      "modalidad": "Suplantación",
+      "total": 23
+    },
+    {
+      "modalidad": "Comisión de delito",
+      "total": 19
+    },
+    {
+      "modalidad": "Rompimiento cerraduta",
+      "total": 12
+    },
+    {
+      "modalidad": "Tóxico o agente químico",
+      "total": 9
+    },
+    {
+      "modalidad": "Abuso de confianza",
+      "total": 5
+    },
+    {
+      "modalidad": "Paquete chileno",
+      "total": 2
+    },
+    {
+      "modalidad": "Violencia intrafamiliar",
+      "total": 2
+    },
+    {
+      "modalidad": "Enfrentamiento con la fuerza pública",
+      "total": 1
+    }
+  ],
+  "por_hora": [
+    {
+      "hora": 0,
+      "total": 330
+    },
+    {
+      "hora": 1,
+      "total": 187
+    },
+    {
+      "hora": 2,
+      "total": 188
+    },
+    {
+      "hora": 3,
+      "total": 150
+    },
+    {
+      "hora": 4,
+      "total": 153
+    },
+    {
+      "hora": 5,
+      "total": 150
+    },
+    {
+      "hora": 6,
+      "total": 220
+    },
+    {
+      "hora": 7,
+      "total": 272
+    },
+    {
+      "hora": 8,
+      "total": 308
+    },
+    {
+      "hora": 9,
+      "total": 404
+    },
+    {
+      "hora": 10,
+      "total": 571
+    },
+    {
+      "hora": 11,
+      "total": 575
+    },
+    {
+      "hora": 12,
+      "total": 549
+    },
+    {
+      "hora": 13,
+      "total": 501
+    },
+    {
+      "hora": 14,
+      "total": 475
+    },
+    {
+      "hora": 15,
+      "total": 710
+    },
+    {
+      "hora": 16,
+      "total": 766
+    },
+    {
+      "hora": 17,
+      "total": 555
+    },
+    {
+      "hora": 18,
+      "total": 559
+    },
+    {
+      "hora": 19,
+      "total": 600
+    },
+    {
+      "hora": 20,
+      "total": 631
+    },
+    {
+      "hora": 21,
+      "total": 540
+    },
+    {
+      "hora": 22,
+      "total": 457
+    },
+    {
+      "hora": 23,
+      "total": 255
+    }
+  ],
+  "por_bien": [
+    {
+      "bien": "Peso",
+      "total": 2729
+    },
+    {
+      "bien": "Celular",
+      "total": 2670
+    },
+    {
+      "bien": "Accesorios prendas de vestir",
+      "total": 754
+    },
+    {
+      "bien": "Sin dato mercancías",
+      "total": 654
+    },
+    {
+      "bien": "Radio",
+      "total": 479
+    },
+    {
+      "bien": "Bicicleta",
+      "total": 275
+    },
+    {
+      "bien": "Billetera",
+      "total": 271
+    },
+    {
+      "bien": "Sin dato joyas",
+      "total": 197
+    },
+    {
+      "bien": "Cédula",
+      "total": 195
+    },
+    {
+      "bien": "Computador",
+      "total": 191
+    }
+  ],
+  "por_arma": [
+    {
+      "arma": "Arma de fuego",
+      "total": 3581
+    },
+    {
+      "arma": "No",
+      "total": 2230
+    },
+    {
+      "arma": "Arma cortopunzante",
+      "total": 2031
+    },
+    {
+      "arma": "No especificado",
+      "total": 1617
+    },
+    {
+      "arma": "Objeto contundente",
+      "total": 572
+    },
+    {
+      "arma": "Escopolamina",
+      "total": 73
+    },
+    {
+      "arma": "Llave maestra",
+      "total": 1
+    },
+    {
+      "arma": "Perro",
+      "total": 1
+    }
+  ],
+  "por_lugar": [
+    {
+      "lugar": "Vía pública",
+      "total": 7404
+    },
+    {
+      "lugar": "Vehículo particular",
+      "total": 745
+    },
+    {
+      "lugar": "Residencia",
+      "total": 244
+    },
+    {
+      "lugar": "Bus de servicio público",
+      "total": 243
+    },
+    {
+      "lugar": "Estación del Metro",
+      "total": 199
+    },
+    {
+      "lugar": "Hotel, motel y hostal",
+      "total": 185
+    },
+    {
+      "lugar": "Parqueadero",
+      "total": 146
+    },
+    {
+      "lugar": "Parque",
+      "total": 138
+    }
+  ],
+  "por_sexo": [
+    {
+      "sexo": "Hombre",
+      "total": 6410
+    },
+    {
+      "sexo": "Mujer",
+      "total": 3648
+    },
+    {
+      "sexo": "No especificado",
+      "total": 48
+    }
+  ],
+  "por_edad": [
+    {
+      "rango": "26-35",
+      "total": 3297
+    },
+    {
+      "rango": "36-50",
+      "total": 3149
+    },
+    {
+      "rango": "18-25",
+      "total": 2136
+    },
+    {
+      "rango": "51-65",
+      "total": 1088
+    },
+    {
+      "rango": "65+",
+      "total": 191
+    },
+    {
+      "rango": "<18",
+      "total": 184
+    }
+  ],
+  "por_barrio": [
+    {
+      "barrio": "La Candelaria",
+      "total": 1222
+    },
+    {
+      "barrio": "Villa Nueva",
+      "total": 246
+    },
+    {
+      "barrio": "Los Conquistadores",
+      "total": 242
+    },
+    {
+      "barrio": "Belén",
+      "total": 238
+    },
+    {
+      "barrio": "Barrio Colón",
+      "total": 233
+    },
+    {
+      "barrio": "San Benito",
+      "total": 220
+    },
+    {
+      "barrio": "El Poblado",
+      "total": 219
+    },
+    {
+      "barrio": "Prado",
+      "total": 215
+    },
+    {
+      "barrio": "Laureles",
+      "total": 211
+    },
+    {
+      "barrio": "Guayaquil",
+      "total": 170
+    },
+    {
+      "barrio": "Caribe",
+      "total": 153
+    },
+    {
+      "barrio": "Naranjal",
+      "total": 147
+    },
+    {
+      "barrio": "Boston",
+      "total": 140
+    },
+    {
+      "barrio": "Rosales",
+      "total": 139
+    },
+    {
+      "barrio": "Perpetuo Socorro",
+      "total": 128
+    }
+  ],
+  "zona_riesgo": [
+    {
+      "comuna": "La Candelaria",
+      "zona_riesgo": "ALTO",
+      "total": 3248
+    },
+    {
+      "comuna": "Laureles-Estadio",
+      "zona_riesgo": "ALTO",
+      "total": 1594
+    },
+    {
+      "comuna": "Belén",
+      "zona_riesgo": "ALTO",
+      "total": 1008
+    },
+    {
+      "comuna": "El Poblado",
+      "zona_riesgo": "ALTO",
+      "total": 954
+    },
+    {
+      "comuna": "Castilla",
+      "zona_riesgo": "ALTO",
+      "total": 562
+    },
+    {
+      "comuna": "Guayabal",
+      "zona_riesgo": "ALTO",
+      "total": 546
+    },
+    {
+      "comuna": "Aranjuez",
+      "zona_riesgo": "MEDIO",
+      "total": 437
+    },
+    {
+      "comuna": "La América",
+      "zona_riesgo": "MEDIO",
+      "total": 391
+    },
+    {
+      "comuna": "Robledo",
+      "zona_riesgo": "MEDIO",
+      "total": 376
+    },
+    {
+      "comuna": "Buenos Aires",
+      "zona_riesgo": "MEDIO",
+      "total": 270
+    },
+    {
+      "comuna": "Villa Hermosa",
+      "zona_riesgo": "MEDIO",
+      "total": 162
+    },
+    {
+      "comuna": "Manrique",
+      "zona_riesgo": "BAJO",
+      "total": 126
+    },
+    {
+      "comuna": "Doce de Octubre",
+      "zona_riesgo": "BAJO",
+      "total": 121
+    },
+    {
+      "comuna": "San Javier",
+      "zona_riesgo": "BAJO",
+      "total": 99
+    },
+    {
+      "comuna": "Santa Cruz",
+      "zona_riesgo": "BAJO",
+      "total": 68
+    },
+    {
+      "comuna": "Popular",
+      "zona_riesgo": "BAJO",
+      "total": 44
+    },
+    {
+      "comuna": "San Antonio de Prado",
+      "zona_riesgo": "BAJO",
+      "total": 27
+    },
+    {
+      "comuna": "Santa Elena",
+      "zona_riesgo": "BAJO",
+      "total": 26
+    },
+    {
+      "comuna": "San Cristóbal",
+      "zona_riesgo": "BAJO",
+      "total": 24
+    },
+    {
+      "comuna": "Desconocida",
+      "zona_riesgo": "BAJO",
+      "total": 12
+    },
+    {
+      "comuna": "Altavista",
+      "zona_riesgo": "BAJO",
+      "total": 8
+    },
+    {
+      "comuna": "Palmitas",
+      "zona_riesgo": "BAJO",
+      "total": 3
+    }
+  ]
+}
