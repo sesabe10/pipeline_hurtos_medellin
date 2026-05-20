@@ -183,7 +183,7 @@ Fecha: 2025
 
 ## 📚 Referencias
 
-- Dataset Hurtos Medellín: https://www.datos.gov.co/Seguridad-y-Defensa/Hurtos-Medell-n-Geogr-fico/fnd7-qt77
+- Dataset Hurtos Medellín: https://www.datos.gov.co/dataset/Hurto-a-persona/nvfz-tncu/about_data
 - MEData Alcaldía de Medellín: https://medata.gov.co
 - Apache Kafka: https://kafka.apache.org
 - Apache Spark: https://spark.apache.org
