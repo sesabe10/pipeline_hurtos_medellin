@@ -1,8 +1,5 @@
 # 🔍 Pipeline de Análisis de Hurtos en Medellín
 
-**Institución Universitaria Pascual Bravo — Gestión de Datos Masivos**  
-Materia: Gestión de Datos Masivos | Tecnología: Open Source  
-
 ---
 
 ## 📋 Descripción del Proyecto
@@ -170,14 +167,6 @@ pipeline_hurtos_medellin/
 4. ¿Qué modalidad de hurto es más común?
 5. ¿Cómo se distribuyen geográficamente los hurtos?
 6. ¿Qué comunas tienen nivel de riesgo ALTO, MEDIO o BAJO?
-
----
-
-## 👥 Autores
-
-*Estudiantes — Institución Universitaria Pascual Bravo*  
-Materia: Gestión de Datos Masivos  
-Fecha: 2025
 
 ---
 
